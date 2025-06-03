@@ -11,3 +11,6 @@ add a new member
 smth
 make pizza
 clean the code
+
+esim
+hastat
